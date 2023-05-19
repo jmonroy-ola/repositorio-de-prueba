@@ -1,0 +1,227 @@
+ids,technical_name
+['734'],repair_rose
+"['655', '5117']",product_drive_images
+"['787', '9876']",cost_USD
+['284'],purchase_order_products_xls
+['1068'],product_sequence
+['853'],account_move_fill_account_lines
+['2872'],followup_report_mod_minimal
+"['1385', '1386', '4498']",subscription_breach
+"['1587', '4731', '5139', '4004', '7095']",bn_employee_supplier_payment_trf
+['4019'],asignar_xmls_facturas
+['2646'],sale_report_multicurrency
+"['4051', '8117', '8981', '9733']",return_nc_nd
+['2458'],product_no_create
+"['4132', '5078', '8154']",account_reverse_active_patch
+['1604'],show_currency_rate
+['3919'],sale_delet_create_contact
+"['4493', '7357', '6170']",report_pdf_options
+['4623'],crm_facebook_leads
+"['872', '5232', '7027', '8837', '8785', '8836', '9312']",iatl_hr_deduction
+"['3226', '3721', '5408', '7012']",account_move_partner_parent
+"['3845', '4053']",reporte_cxc_cxp
+"['4164', '6535']",pos_multi_currency
+['4691'],"Muk_utils, muk_rest, muk_autovaccum"
+['4746'],crm_facebook_lead
+['4771'],crm_l
+['3798'],alrotek_product
+"['3248', '8509']",hr_employee_automatic_holiday
+['4509'],conectividad
+['4719'],automatic_vacations_by_employee_first_day
+['5147'],invoice_pdf_format
+['3431'],sale_royalties
+['3580'],sale_account_sale_manager
+"['4932', '3324', '3327', '3357', '3726', '8178']",electric_vehicles
+['3581'],hr_employee_commissions
+"['3915', '3926', '4934', '3927']",stock_requiere_seguimiento
+['3582'],hr_employee_commission
+['4340'],res_currency_yuan
+['4148'],account_move_filter_state
+['5148'],employee_document_expiry
+['5149'],hr_organizational_chart
+"['4036', '4037']",website_booking_jacamar_modifications
+"['4234', '6160']",recibo_factura
+['5313'],account_sepa
+['3952'],hr_contract_change_get_work_hours
+['5227'],backup_upload_google_drive
+"['4237', '4236']",website_booking_system
+['5490'],"droggol_theme_common, theme_prime"
+['4641'],deltatech_pricelist
+['3217'],hr_holidays_event_calendar_name
+"['4235', '7486', '9495', '3570']",cierre_caja
+['4192'],sale_booking_confirmation_reports
+['5331'],invoice_report_mod
+['4167'],stocks_extra_locations
+"['5233', '6325']",cr_electronic_invoice_website
+['4140'],"limit_credit_partner, contacts_limit_credit_partner_complement"
+['4142'],account_valitation_document
+"['4320', '4121']",stock_limitation
+['2674'],"sale_shop, website_store_locator y website_webkul_addons"
+['4673'],contact_equipment_census
+['4667'],requirements_for_new_client
+"['4302', '3049']",web_lead_funnel_chart
+['1923'],automotive_reporting
+['3681'],contact_change_data_in_chatter
+['1924'],lost_sale
+['1917'],alternative_products
+['1916'],crm_order_line
+['5145'],branch_offices
+['4694'],contact_and_product_follow_up
+['4779'],bi_pos_payline_ref
+['4780'],wk_pos_commission
+['5577'],pways_pos_inventory_all
+['5529'],pos_view_terminal_asigned
+['4342'],pos_multi_currency_spei
+['4147'],contact_client_files
+['4931'],product_status
+['5186'],stock_limit_promissory_note
+"['4778', '5669', '6320']",aspl_pos_order_reservation_ee
+"['3047', '3319']",partner_routes_map_oin
+['3800'],product_animal_control
+"['3247', '8972', '9253', '9360']",hr_payroll_information_and_last_salaries
+['6110'],sh_so_weight
+['2846'],portal_dealer_fees
+['5605'],crm_invoice
+['6129'],stock_analytic_account_inherit
+"['3166', '4901', '3910', '3356', '7759', '8588']",klp_client
+"['6369', '6551', '7074', '1950']",settlements_employee
+['4203'],helpdesk_team_block
+['4569'],helpdesk_inherit
+['5840'],ola_cr
+['4511'],base_odoo_permissions
+['6500'],remove_stock_quant_constraint
+['6061'],employee_documents_expiry
+"['1597', '6702']",stock_import_cost
+['6505'],sync_statistics
+['5399'],"wk_pos_sales_commission, pw_pos_salesperson"
+['6347'],aspl_pos_report_ee
+['5770'],"binhex_gift_ticket_pos, pos_switch_view"
+['6389'],"custom_pos, pw_pos_item_count"
+['4813'],pos_product_exchange
+"['3878', '3165']",sale_klp_discounts
+"['5181', '7487', '9873', '3572']",limit_credit_partner
+"['6696', '6687']",complete_customer_route_report
+['6438'],mass_sale_confim_picking
+['6443'],sh_so_weight_inherit_mod
+['4489'],material_purchase_requisitions
+['3183'],planning_hr_holiday_exclude
+['7341'],fl_outgoing_mail_server_company
+['6449'],invoice_to_expenses
+"['2510', '9315']",reportes_multimoneda
+['7421'],knowsystem
+['6772'],module_margen_facturas
+['6011'],account_report_modifications
+['7296'],account_aux_tax_report
+['7347'],unique_default_code
+['8128'],pragtech_woo_commerce
+['8168'],website_floating_whatsapp_icon
+"['1932', '1926', '3046', '1920']",customer_fleet
+"['5274', '1929']",credit_limit
+['1927'],informational_fields
+"['1918', '3832', '3833']",sales_order_quote
+"['4240', '5400']",hr_leave
+['2624'],bac_employee_supplier_payment_prn
+"['4255', '4420', '4422', '4519', '5886', '7746', '9192', '7824', '9190']",hr_payslip_salary_lien
+"['8324', '8175', '7876', '7875', '7779', '7778', '8237', '7877', '8720', '8566']",ecom_invoice
+"['7108', '3568', '10119']",purchase_discount
+['7160'],time_sheet_attendace
+['8185'],hr_payroll_informaion_and_last_salaries
+['8196'],requirements_fields
+['7330'],fields_and_reports
+['7764'],hr_payroll_report_modifications
+['6268'],helpdesk_dashboard_admin
+"['6468', '9261']",ks_dashboard_ninja
+['8310'],"to_attendance_device, to_base, to_safe_confirm_button"
+['7977'],hour_type_timesheet
+['8192'],report_general_ledger_total
+"['8083', '7107', '8977']",recurring_bill
+['8059'],"aspl_pos_order_reservation_ee,wk_pos_sales_commission"
+['5120'],contacts_duplicated_partner
+['4777'],pos_ticket_edit
+['7774'],hr_currency_struct
+['8534'],purchase_report_fields
+"['7753', '9595']",hr_payroll_report
+['7353'],stock_picking_validate_transfer
+"['9022', '2070']",machote_planillas
+['8248'],account_export_client
+['8075'],repair_guarantee_seal
+['8370'],product_variant_sale_price
+['8822'],mandatory_cost_field
+['8173'],requirements_fields_crm
+"['9137', '4933', '3561', '3574']",product_sale_margin
+['5386'],biogym_new_fields
+['7978'],mass_validation_payment
+['7442'],route
+['8200'],"aspl_pos_order_reservation_ee,custom_pos"
+['9103'],"maintenance_automatic, maintenance_start_stop, maintenance_start_stop_models"
+"['6281', '9751']",agent_commissions
+"['9216', '9585', '9881', '9446', '9918', '9880', '9870', '9868', '9869']",cr_electronic_invoice_pos
+['9138'],ks_pos_low_stock_alert
+['9386'],website_sale_product_description
+['9197'],hr_payslip_run_masive_pay_sv
+['8994'],hr_payroll_tax_withholding_sv
+"['8729', '9373']",hr_payroll_report_sv
+"['9317', '8856']",hr_payroll_information_and_last_salaries_sv
+['9215'],"dynamic_print_cheques, l10n_tn_base"
+['9442'],dynamic_print_cheques
+['8850'],hr_employee_automatic_vacations_sv
+['4438'],payment_greenpay_ola_recurring
+['9769'],"hr_payroll_bonus_report, hr_payslip_salary_lien"
+['8778'],"crm_l,contactos_conexion"
+"['9934', '9976']",compute_number_days_in_leaves_sv
+['9815'],payment_fields
+['8350'],"aspl_pos_order_reservation_ee,pos_ticket_edit"
+['7355'],custom_pos
+['9105'],"O_AT_Base,o_chele_reporte,O_PDF_AccountPayment,O_Retencion,web_domain_field"
+['5123'],group_financial_statements
+['9502'],"complete_costumer_route_report, recibo_factura_add_fields,report_granel"
+['9774'],vehicle_workshop
+['9504'],purchase_discounts
+['8820'],ts_import_serial_no_and_transfers
+"['7272', '10057']",ob_pos_payment_ref
+"['9671', '9486', '9861']",account_invoice_picking
+['9352'],hr_deduction_sv
+['3272'],combo_products
+['7338'],location_control
+['7438'],res_partner_commissions
+['6776'],hr_payroll_report_custom
+['4430'],"payment_greenpay_ola, payment_greenpay_ola_recurring"
+['7173'],"employee_check_list, hr_payroll_report"
+"['964', '1075']",product_hours_pos
+"['7424', '7661']","modifications_in_expenses, invoice_to_expenses"
+['1922'],license_plate
+['7089'],"bac_employee_supplier_payment_prn, bn_employee_supplier_payment"
+['7091'],pago_por_correos
+['3994'],account_record_modifications
+['8598'],"web_domain_field,web_lead_funnel_chart,company_groups,informational_fields,requirements_for_new_client,sale_rating,client_hiden,customer_classification,crm_delete_sms,helpdesk_technology_contract,contact_change_data_in_chatter,lost_sale,crm_lead_alert_sale,sap_connector,alternative_products,credit_limit,add_parent_nit_and_set_domain_state,set_order_on_search_product"
+['1912'],sap_connector
+['4155'],invoice_format_pdf
+['3058'],vehicle_delivery
+"['5668', '6269']",ks_sticky_pivot_view
+['7781'],hr_improvement_vacations
+['5176'],bank_statement_ref
+['4380'],graphhql_base
+['5794'],crm_lead_company_currency_dollar
+['8216'],"multi_branch_pos, multi_branch_base"
+['4149'],account_move_under_cost
+['3575'],invoice_report_profitability_percentages
+['3839'],report_sac
+['5918'],stock_fields
+['2634'],account_report_percentage
+['9543'],commission_liter
+['6757'],discounts_by_amount
+['8125'],"vehicle_workshop,web_widget_image_paint"
+['6656'],print_invoice_pos
+['8913'],opportunity_to_invoiced_stage
+['9078'],stock_import_cost & report_xlsx
+['8132'],discounts_and_promotions
+['6124'],kpis_module
+['8311'],discounts_and_promotions_pos
+['9410'],ctln_employee_supplier_payment_sv
+['8675'],fetch_invoice_from_mail
+['6754'],rental_fields
+['9339'],discounts_and_promotions_website
+['8065'],"pw_pos_salesperson, wk_pos_sales_commission"
+['9503'],overdue_receivables_report
+['8183'],exchange_rate_conversion
+['8855'],cr_electronic_invoice
